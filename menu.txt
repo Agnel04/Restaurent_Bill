@@ -1,0 +1,20 @@
+t   Tea                    15
+c   Coffee                 20
+l   Lime_Juice             25
+a   Appam                  12
+p   Porotta                15
+ch  Chapati                10
+er  Egg_Roast              50
+cc  Chicken_Curry          120
+vc  Veg_Curry              80
+cb  Chicken_Biriyani       180
+bb  Beef_Biriyani
+fr  Fried_Rice             150
+n   Noodles                110
+gr  Ghee_Roast             60
+md  Masala_Dosa            55
+i   Idli                   30
+v   Vada                   25
+fc  Fish_Curry             140
+br  Beef_Roast             160
+ic  Ice_Cream              50
